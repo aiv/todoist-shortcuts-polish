@@ -1336,7 +1336,7 @@
       withUniqueTag(
           appSidebar,
           'button',
-          (button) => button.innerText.includes('Add task'),
+          (button) => button.innerText.includes('Dodaj zadanie'),
           click),
     );
   }
