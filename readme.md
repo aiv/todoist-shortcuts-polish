@@ -1,5 +1,7 @@
 ![todoist-shortcuts logo](src/icon128.png)
 
+**Fork note:** I created this fork because this great add-on only supports English labels. So, if you use the Polish language in Todoist, this add-on cannot find the correct buttons.
+
 **todoist-shortcuts** is a browser extension or greasemonkey script which adds a
 bunch of keyboard shortcuts to [Todoist](https://todoist.com). Along with this
 repository, it is also available from the following places:
